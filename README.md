@@ -1,2 +1,2 @@
-# SimpleGame
-Creating a simple turn based game in react
+# Weather app
+Creating an app for checking weather and atm radar.
